@@ -20,10 +20,14 @@ export default function Slider_46() {
   },[index, people])
 
   useEffect( () => {
-    setInterval( () => {
+    let slider = setInterval( () => {
       setIndex(index + 1)
     },3000)
+    
+    return () => clearInterval(slider)
   },[index])
+  
+  
 
   return (
     <section>
