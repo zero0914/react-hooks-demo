@@ -7,7 +7,9 @@ import React from 'react';
 //import T23_46 from './tutorial/2-useEffect/T23-useEffect-fetch-data'
 //import T31_46 from './tutorial/3-conditional-rendering/T31-multiple-returns'
 //import T32_46 from './tutorial/3-conditional-rendering/T32-short-circuit'
-import T33_46 from './tutorial/3-conditional-rendering/T33-show-hide'
+//import T33_46 from './tutorial/3-conditional-rendering/T33-show-hide'
+import T33_46 from './demo/w13_slider_46/Slider_46'
+
 const App_46 = () => {
   return (
     <div className='container'>
