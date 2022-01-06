@@ -45,10 +45,10 @@ Variables
   --fixed-width: 620px;
 }
 /*
-  =============== 
-  Global Styles
-  ===============
-  */
+=============== 
+Global Styles
+===============
+*/
 
 *,
 ::after,
@@ -135,10 +135,10 @@ p {
 }
 
 /*
-  =============== 
-  Navbar
-  ===============
-  */
+=============== 
+Navbar
+===============
+*/
 nav {
   background: var(--clr-white);
   box-shadow: var(--light-shadow);

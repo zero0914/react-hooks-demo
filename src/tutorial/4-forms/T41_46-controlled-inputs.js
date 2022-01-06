@@ -52,7 +52,7 @@ const T41_46_ControlledInputs = () => {
   }
   
   return <>
-    <article>
+    <article style={ {marginTop: "30px"} }>
       <form className="form" onSubmit={handleSubmit}>
         <div className="form-control">
           <label htmlFor ='name'>Name : </label>
